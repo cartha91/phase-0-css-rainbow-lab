@@ -116,7 +116,7 @@ Let's fix this by adding the style sheet to the `head`:
 ```html
 <head>
   <title>My Little Rainbow</title>
-  <link rel="stylesheet" type="text/css" href="./main.css" />
+  <link rel="stylesheet" type="text/css" href="main.css" />
 </head>
 ```
 
